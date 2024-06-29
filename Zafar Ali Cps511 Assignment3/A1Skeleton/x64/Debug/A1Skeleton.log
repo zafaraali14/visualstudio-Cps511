@@ -1,0 +1,91 @@
+﻿  main.c
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(22): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(73): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(77): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(153): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(154): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(161): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(162): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(172): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(173): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(192): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(193): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(200): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(201): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(206): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(207): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(221): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(229): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(int)'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(310): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(311): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(317): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(318): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(323): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(324): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(330): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(331): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(568): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(569): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(628): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(678): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(733): warning C4101: 'height': unreferenced local variable
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(736): warning C4101: 'z': unreferenced local variable
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(735): warning C4101: 'y': unreferenced local variable
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(734): warning C4101: 'x': unreferenced local variable
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(815): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(791): warning C4101: 'z': unreferenced local variable
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(790): warning C4101: 'y': unreferenced local variable
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(789): warning C4101: 'x': unreferenced local variable
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(855): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(856): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(898): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(912): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(971): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1086): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1392): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1393): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1401): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1402): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1403): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1411): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1412): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1419): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1420): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1421): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1429): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1430): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1437): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1438): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1439): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1447): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1448): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1455): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1456): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1457): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1472): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1584): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1884): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1885): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1892): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1893): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1894): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1903): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1904): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1911): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1912): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1913): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1921): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1922): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1929): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1930): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1931): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1939): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1940): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1947): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1948): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(1949): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\zafar ali\desktop\a1skeleton\a1skeleton\main.c(916): warning C4101: 'tip6': unreferenced local variable
+  QuadMesh.c
+  Generating Code...
+  A1Skeleton.vcxproj -> C:\Users\Zafar Ali\Desktop\A1Skeleton\x64\Debug\A1Skeleton.exe
+  A1Skeleton.vcxproj -> C:\Users\Zafar Ali\Desktop\A1Skeleton\x64\Debug\A1Skeleton.pdb (Partial PDB)
